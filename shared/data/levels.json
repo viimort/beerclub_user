@@ -1,0 +1,92 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "nombre": "Cebador Novato",
+      "descripcion": "Acaba de unirse al club, tanteando las primeras pintas.",
+      "rango_puntos": [
+        0,
+        10
+      ],
+      "beneficios": [
+        "5% de descuento en la segunda pinta"
+      ],
+      "color": "#B4D455",
+      "icono": "🥉"
+    },
+    {
+      "id": 2,
+      "nombre": "Catador Amateur",
+      "descripcion": "Empieza a tener sus bares favoritos y sumar seguido.",
+      "rango_puntos": [
+        11,
+        30
+      ],
+      "beneficios": [
+        "10% de descuento o 2x1 mensual"
+      ],
+      "color": "#FFD14F",
+      "icono": "🍺"
+    },
+    {
+      "id": 3,
+      "nombre": "Bebedor de Cabecera",
+      "descripcion": "Ya lo saludan por nombre en el bar.",
+      "rango_puntos": [
+        31,
+        60
+      ],
+      "beneficios": [
+        "Pinta gratis al mes o merchandising exclusivo"
+      ],
+      "color": "#E48B3E",
+      "icono": "🍻"
+    },
+    {
+      "id": 4,
+      "nombre": "Maestro de la Espuma",
+      "descripcion": "Encuentra siempre la cerveza perfecta y recomienda a otros.",
+      "rango_puntos": [
+        61,
+        120
+      ],
+      "beneficios": [
+        "15% de descuento permanente",
+        "Puntos dobles en días especiales"
+      ],
+      "color": "#3A8FB7",
+      "icono": "🧙‍♂️"
+    },
+    {
+      "id": 5,
+      "nombre": "Campeón de la Liga",
+      "descripcion": "Top del ranking, orgullo de la Beer League.",
+      "rango_puntos": [
+        121,
+        200
+      ],
+      "beneficios": [
+        "Acceso a eventos VIP",
+        "Cervezas limitadas"
+      ],
+      "color": "#A76AC9",
+      "icono": "🏆"
+    },
+    {
+      "id": 6,
+      "nombre": "Leyenda Cervecera",
+      "descripcion": "Nivel máximo. Su nombre debería estar grabado en el bar.",
+      "rango_puntos": [
+        201,
+        999999
+      ],
+      "beneficios": [
+        "Membresía dorada",
+        "Descuentos premium",
+        "Trofeo anual"
+      ],
+      "color": "#9C6E3A",
+      "icono": "🍯"
+    }
+  ]
+}
